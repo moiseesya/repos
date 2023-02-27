@@ -81,6 +81,7 @@ main ()
 			{
 			printf("Year of monkey");	
 			}
+			break;
 		case 1:
 			{
 			printf("Year of rooster");	
